@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "helperprocess",
+        "uuid": 2997492,
+        "checksum": "gstt4"
+    },
+    "settings": {
+        "retries": 5,
+        "enabled": false,
+        "mode": "debug"
+    }
+}
